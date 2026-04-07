@@ -1,0 +1,5 @@
+<server>
+  <address>192.168.30.2</address>
+  <port>1514</port>
+  <protocol>tcp</protocol>
+</server>
