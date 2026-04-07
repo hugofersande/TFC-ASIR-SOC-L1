@@ -1,4 +1,4 @@
-# TFC-ASIR: SOC L1 con Wazuh, TheHive, Cortex, MISP y Suricata
+# # TFC-ASIR: Diseño y despliegue de un SOC L1 con Wazuh, TheHive, Cortex, MISP y Suricata
 
 ![Status](https://img.shields.io/badge/status-academic%20project-blue)
 ![Stack](https://img.shields.io/badge/stack-Wazuh%20%7C%20TheHive%20%7C%20MISP%20%7C%20Suricata-informational)
@@ -194,7 +194,7 @@ Este repositorio está organizado para que puedas localizar rápido cada parte d
 
 Si quieres una visión rápida del proyecto, empieza por este orden:
 1. `README.md`
-2. `documentoss/resumen-proyecto.md`
+2. `documentos/resumen-proyecto.md`
 3. `documentos/use-cases.md`
 4. `documentos/troubleshooting.md`
 5. `documentos/memoria.pdf`
@@ -207,7 +207,7 @@ Si quieres una visión rápida del proyecto, empieza por este orden:
 - [Memoria del proyecto en PDF](documentos/memoria.pdf)
 - [Memoria del proyecto en Markdown](documentos/memoria.md)
 - [Presentación del proyecto](presentacion/presentacion.pdf)
-- [Resumen del proyecto](dococumentos/resumen-proyecto.md)
+- [Resumen del proyecto](documentos/resumen-proyecto.md)
 - [Casos de uso](documentos/use-cases.md)
 - [Troubleshooting y lecciones aprendidas](documentos/troubleshooting.md)
 - [Roadmap de evolución](documentos/roadmap.md)
