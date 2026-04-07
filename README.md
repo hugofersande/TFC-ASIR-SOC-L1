@@ -1,4 +1,4 @@
-# # TFC-ASIR: Diseño y despliegue de un SOC L1 con Wazuh, TheHive, Cortex, MISP y Suricata
+# TFC-ASIR: Diseño y despliegue de un SOC L1 con Wazuh, TheHive, Cortex, MISP y Suricata
 
 ![Status](https://img.shields.io/badge/status-academic%20project-blue)
 ![Stack](https://img.shields.io/badge/stack-Wazuh%20%7C%20TheHive%20%7C%20MISP%20%7C%20Suricata-informational)
